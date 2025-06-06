@@ -291,21 +291,6 @@ streamlit run app.py --server.port 8502
 - Ensure date format: YYYY-MM-DD or ISO format
 - Verify text encoding (UTF-8)
 
-## 🤝 Contributing
-
-### Development Setup
-```bash
-git clone <repository>
-cd sentiment-dashboard
-pip install -r requirements.txt
-python -m pytest tests/  # Run tests
-```
-
-### Adding Features
-1. Fork the repository
-2. Create feature branch
-3. Add tests for new functionality
-4. Submit pull request
 
 ## 📜 License
 
@@ -318,12 +303,6 @@ This project is open source and available under the MIT License.
 - **Plotly**: Interactive visualizations
 - **Tweepy**: Twitter API wrapper
 
-## 📞 Support
-
-For issues and questions:
-1. Check troubleshooting section
-2. Review API documentation
-3. Create GitHub issue with error details
 
 ---
 
